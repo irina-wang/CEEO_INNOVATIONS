@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-25T21:22:53-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">My Project template 2</title><link href="http://localhost:4000/2020/05/20/template2.html" rel="alternate" type="text/html" title="My Project template 2" /><published>2020-05-20T00:00:00-04:00</published><updated>2020-05-20T00:00:00-04:00</updated><id>http://localhost:4000/2020/05/20/template2</id><content type="html" xml:base="http://localhost:4000/2020/05/20/template2.html">&lt;!DOCTYPE html&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/CEEO_INNOVATION/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/CEEO_INNOVATION/" rel="alternate" type="text/html" /><updated>2020-05-26T14:55:12-04:00</updated><id>http://localhost:4000/CEEO_INNOVATION/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">My Project template 2</title><link href="http://localhost:4000/CEEO_INNOVATION/2020/05/20/template2.html" rel="alternate" type="text/html" title="My Project template 2" /><published>2020-05-20T00:00:00-04:00</published><updated>2020-05-20T00:00:00-04:00</updated><id>http://localhost:4000/CEEO_INNOVATION/2020/05/20/template2</id><content type="html" xml:base="http://localhost:4000/CEEO_INNOVATION/2020/05/20/template2.html">&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 
 &lt;!--------------------- EXTERNAL SOURCES -----------------------&gt;
   &lt;!-- Bootstrap core CSS --&gt;
-  &lt;link href=&quot;/assets/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot;&gt;
+  &lt;link href=&quot;/CEEO_INNOVATION/assets/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot;&gt;
 
   &lt;!-- Custom fonts for this template --&gt;
   &lt;link href=&quot;https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&quot; rel=&quot;stylesheet&quot;&gt;
   &lt;link href=&quot;https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&quot; rel=&quot;stylesheet&quot;&gt;
 
   &lt;!-- Custom styles for this template --&gt;
-  &lt;link href=&quot;/assets/css/business-casual.min.css&quot; rel=&quot;stylesheet&quot;&gt;
-  &lt;link href=&quot;/assets/css/business-frontpage.css&quot; rel=&quot;stylesheet&quot;&gt;
-	&lt;script src=&quot;/assets/js/jquery.slim.min.js&quot;&gt;&lt;/script&gt;
-	&lt;script src = &quot;/assets/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
+  &lt;link href=&quot;/CEEO_INNOVATION/assets/css/business-casual.min.css&quot; rel=&quot;stylesheet&quot;&gt;
+  &lt;link href=&quot;/CEEO_INNOVATION/assets/css/business-frontpage.css&quot; rel=&quot;stylesheet&quot;&gt;
+	&lt;script src=&quot;/CEEO_INNOVATION/assets/js/jquery.slim.min.js&quot;&gt;&lt;/script&gt;
+	&lt;script src = &quot;/CEEO_INNOVATION/assets/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
 
   &lt;!-- Custom styles for this template --&gt;
-	&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style1.css&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/CEEO_INNOVATION/assets/css/style1.css&quot;&gt;
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style2.css&quot;&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/CEEO_INNOVATION/assets/css/style2.css&quot;&gt;
 
    &lt;!-- Theme Style --&gt;
-  &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style.css&quot;&gt; 
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/CEEO_INNOVATION/assets/css/style.css&quot;&gt; 
 
   &lt;!-- Font Style --&gt;
   &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;//fonts.googleapis.com/css?family=Raleway&quot; /&gt;
 
-  &lt;link rel = &quot;stylesheet&quot; type = &quot;text/css&quot; href = &quot;/assets/css/author.css&quot; /&gt;
+  &lt;link rel = &quot;stylesheet&quot; type = &quot;text/css&quot; href = &quot;/CEEO_INNOVATION/assets/css/author.css&quot; /&gt;
 
 &lt;style&gt;
     .body{
@@ -65,10 +65,10 @@
 			  &lt;div class=&quot;col-lg-12&quot;&gt;	
 	
 		  &lt;a href=&quot;index.html&quot; target=&quot;_blank&quot;&gt;
-			  &lt;img class=&quot;img-fluid&quot; style=&quot;width: 15%;max-width: 200px; margin-right: 70%&quot; src=&quot;/assets/img/Logo_Black.png&quot; alt=&quot;&quot;&gt;
+			  &lt;img class=&quot;img-fluid&quot; style=&quot;width: 15%;max-width: 200px; margin-right: 70%&quot; src=&quot;/CEEO_INNOVATION/assets/img/Logo_Black.png&quot; alt=&quot;&quot;&gt;
 		  &lt;/a&gt;
 		  &lt;a href=&quot;https://ceeo.tufts.edu&quot; target=&quot;_blank&quot;&gt;
-				&lt;img class=&quot;img-fluid&quot; style=&quot;width: 13%;max-width: 200px &quot; src=&quot;/assets/img/Tufts_University.png&quot; alt=&quot;&quot;&gt;
+				&lt;img class=&quot;img-fluid&quot; style=&quot;width: 13%;max-width: 200px &quot; src=&quot;/CEEO_INNOVATION/assets/img/Tufts_University.png&quot; alt=&quot;&quot;&gt;
 		  &lt;/a&gt;
 			&lt;/div&gt;
 		  &lt;/div&gt;
@@ -97,7 +97,7 @@
  &lt;!-- Intro --&gt;
     &lt;div id=&quot;intro&quot;&gt;
         &lt;div class=&quot;intro_img&quot; style=&quot;display:block; overflow:hidden; margin-left:5%; margin-right: 5%; margin-bottom: 4%; width:90%&quot; &gt;
-            &lt;img src=&quot;/assets/img/intro.jpg&quot;&gt;&lt;img&gt; 
+            &lt;img src=&quot;/CEEO_INNOVATION/assets/img/intro.jpg&quot;&gt;&lt;img&gt; 
         &lt;/div&gt;
        
         &lt;h5 class=&quot;intro_text&quot; style=&quot;display: block; margin-left:7%; margin-right: 7%; text-align: center;font-weight:500;&quot;&gt;enter your project's introduction&lt;/h5&gt; 
@@ -192,7 +192,7 @@
             &lt;div class=&quot;our-team&quot;&gt;
             &lt;div class=&quot;picture&quot;&gt;	
                 &lt;a href=&quot;http://linkedin.com&quot;&gt;
-                    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/author1.jpg&quot;&gt;
+                    &lt;img class=&quot;img-fluid&quot; src=&quot;/CEEO_INNOVATION/assets/img/author1.jpg&quot;&gt;
                 &lt;/a&gt;
             &lt;/div&gt;
             &lt;div class=&quot;team-content&quot;&gt;
@@ -207,7 +207,7 @@
             &lt;div class=&quot;our-team&quot;&gt;
             &lt;div class=&quot;picture&quot;&gt;	
                 &lt;a href=&quot;http://linkedin.com&quot;&gt;
-                    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/author1.jpg&quot;&gt;
+                    &lt;img class=&quot;img-fluid&quot; src=&quot;/CEEO_INNOVATION/assets/img/author1.jpg&quot;&gt;
                 &lt;/a&gt;
             &lt;/div&gt;
             &lt;div class=&quot;team-content&quot;&gt;
@@ -271,9 +271,9 @@
     &lt;div class=&quot;container&quot;&gt;
       &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;col-lg-4&quot; style=&quot;margin-right:15%&quot; &gt;
-            &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/logo_white.png&quot; alt=&quot;&quot;&gt;
+            &lt;img class=&quot;img-fluid&quot; src=&quot;/CEEO_INNOVATION/assets/img/logo_white.png&quot; alt=&quot;&quot;&gt;
             &lt;a href=&quot;https://ceeo.tufts.edu/&quot; target=&quot;_blank&quot;&gt;
-            &lt;img class=&quot;img-fluid&quot; style = &quot;margin-top: 1.5rem;margin-bottom:1rem&quot; src=&quot;/assets/img/CEEO_Logo_Black Background.png&quot; alt=&quot;&quot;&gt;
+            &lt;img class=&quot;img-fluid&quot; style = &quot;margin-top: 1.5rem;margin-bottom:1rem&quot; src=&quot;/CEEO_INNOVATION/assets/img/CEEO_Logo_Black Background.png&quot; alt=&quot;&quot;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-lg-6 ml-auto&quot; &gt;
@@ -308,10 +308,10 @@
 
 
 
-&lt;/html&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">My Project template 3</title><link href="http://localhost:4000/2020/05/20/template3.html" rel="alternate" type="text/html" title="My Project template 3" /><published>2020-05-20T00:00:00-04:00</published><updated>2020-05-20T00:00:00-04:00</updated><id>http://localhost:4000/2020/05/20/template3</id><content type="html" xml:base="http://localhost:4000/2020/05/20/template3.html">&lt;!DOCTYPE html&gt;
+&lt;/html&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">My Project template 3</title><link href="http://localhost:4000/CEEO_INNOVATION/2020/05/20/template3.html" rel="alternate" type="text/html" title="My Project template 3" /><published>2020-05-20T00:00:00-04:00</published><updated>2020-05-20T00:00:00-04:00</updated><id>http://localhost:4000/CEEO_INNOVATION/2020/05/20/template3</id><content type="html" xml:base="http://localhost:4000/CEEO_INNOVATION/2020/05/20/template3.html">&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 
-&lt;link href=&quot;/assets/css/template.css&quot; rel=&quot;stylesheet&quot;&gt;
+&lt;link href=&quot;/CEEO_INNOVATION/assets/css/template.css&quot; rel=&quot;stylesheet&quot;&gt;
 
 
 &lt;body&gt;
@@ -323,35 +323,35 @@
 
 
 
-&lt;/html&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">My Project template</title><link href="http://localhost:4000/2020/05/19/template.html" rel="alternate" type="text/html" title="My Project template" /><published>2020-05-19T00:00:00-04:00</published><updated>2020-05-19T00:00:00-04:00</updated><id>http://localhost:4000/2020/05/19/template</id><content type="html" xml:base="http://localhost:4000/2020/05/19/template.html">&lt;!DOCTYPE html&gt;
+&lt;/html&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">My Project template</title><link href="http://localhost:4000/CEEO_INNOVATION/2020/05/19/template.html" rel="alternate" type="text/html" title="My Project template" /><published>2020-05-19T00:00:00-04:00</published><updated>2020-05-19T00:00:00-04:00</updated><id>http://localhost:4000/CEEO_INNOVATION/2020/05/19/template</id><content type="html" xml:base="http://localhost:4000/CEEO_INNOVATION/2020/05/19/template.html">&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 
 &lt;!--------------------- EXTERNAL SOURCES -----------------------&gt;
   &lt;!-- Bootstrap core CSS --&gt;
-  &lt;link href=&quot;/assets/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot;&gt;
+  &lt;link href=&quot;/CEEO_INNOVATION/assets/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot;&gt;
 
   &lt;!-- Custom fonts for this template --&gt;
   &lt;link href=&quot;https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&quot; rel=&quot;stylesheet&quot;&gt;
   &lt;link href=&quot;https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&quot; rel=&quot;stylesheet&quot;&gt;
 
   &lt;!-- Custom styles for this template --&gt;
-  &lt;link href=&quot;/assets/css/business-casual.min.css&quot; rel=&quot;stylesheet&quot;&gt;
-  &lt;link href=&quot;/assets/css/business-frontpage.css&quot; rel=&quot;stylesheet&quot;&gt;
-	&lt;script src=&quot;/assets/js/jquery.slim.min.js&quot;&gt;&lt;/script&gt;
-	&lt;script src = &quot;/assets/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
+  &lt;link href=&quot;/CEEO_INNOVATION/assets/css/business-casual.min.css&quot; rel=&quot;stylesheet&quot;&gt;
+  &lt;link href=&quot;/CEEO_INNOVATION/assets/css/business-frontpage.css&quot; rel=&quot;stylesheet&quot;&gt;
+	&lt;script src=&quot;/CEEO_INNOVATION/assets/js/jquery.slim.min.js&quot;&gt;&lt;/script&gt;
+	&lt;script src = &quot;/CEEO_INNOVATION/assets/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
 
   &lt;!-- Custom styles for this template --&gt;
-	&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style1.css&quot;&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/CEEO_INNOVATION/assets/css/style1.css&quot;&gt;
 
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style2.css&quot;&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/CEEO_INNOVATION/assets/css/style2.css&quot;&gt;
 
    &lt;!-- Theme Style --&gt;
-  &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style.css&quot;&gt; 
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/CEEO_INNOVATION/assets/css/style.css&quot;&gt; 
 
   &lt;!-- Font Style --&gt;
   &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;//fonts.googleapis.com/css?family=Raleway&quot; /&gt;
 
-  &lt;link rel = &quot;stylesheet&quot; type = &quot;text/css&quot; href = &quot;/assets/css/author.css&quot; /&gt;
+  &lt;link rel = &quot;stylesheet&quot; type = &quot;text/css&quot; href = &quot;/CEEO_INNOVATION/assets/css/author.css&quot; /&gt;
 
 &lt;style&gt;
     .body{
@@ -390,10 +390,10 @@
 			  &lt;div class=&quot;col-lg-12&quot;&gt;	
 	
 		  &lt;a href=&quot;index.html&quot; target=&quot;_blank&quot;&gt;
-			  &lt;img class=&quot;img-fluid&quot; style=&quot;width: 15%;max-width: 200px; margin-right: 70%&quot; src=&quot;/assets/img/Logo_Black.png&quot; alt=&quot;&quot;&gt;
+			  &lt;img class=&quot;img-fluid&quot; style=&quot;width: 15%;max-width: 200px; margin-right: 70%&quot; src=&quot;/CEEO_INNOVATION/assets/img/Logo_Black.png&quot; alt=&quot;&quot;&gt;
 		  &lt;/a&gt;
 		  &lt;a href=&quot;https://ceeo.tufts.edu&quot; target=&quot;_blank&quot;&gt;
-				&lt;img class=&quot;img-fluid&quot; style=&quot;width: 13%;max-width: 200px &quot; src=&quot;/assets/img/Tufts_University.png&quot; alt=&quot;&quot;&gt;
+				&lt;img class=&quot;img-fluid&quot; style=&quot;width: 13%;max-width: 200px &quot; src=&quot;/CEEO_INNOVATION/assets/img/Tufts_University.png&quot; alt=&quot;&quot;&gt;
 		  &lt;/a&gt;
 			&lt;/div&gt;
 		  &lt;/div&gt;
@@ -422,7 +422,7 @@
  &lt;!-- Intro --&gt;
     &lt;div id=&quot;intro&quot;&gt;
         &lt;div class=&quot;intro_img&quot; style=&quot;display:block; overflow:hidden; margin-left:5%; margin-right: 5%; margin-bottom: 4%; width:90%&quot; &gt;
-            &lt;img src=&quot;/assets/img/intro.jpg&quot;&gt;&lt;img&gt; 
+            &lt;img src=&quot;/CEEO_INNOVATION/assets/img/intro.jpg&quot;&gt;&lt;img&gt; 
         &lt;/div&gt;
        
         &lt;h5 class=&quot;intro_text&quot; style=&quot;display: block; margin-left:7%; margin-right: 7%; text-align: center;font-weight:500;&quot;&gt;enter your project's introduction&lt;/h5&gt; 
@@ -517,7 +517,7 @@
             &lt;div class=&quot;our-team&quot;&gt;
             &lt;div class=&quot;picture&quot;&gt;	
                 &lt;a href=&quot;http://linkedin.com&quot;&gt;
-                    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/author1.jpg&quot;&gt;
+                    &lt;img class=&quot;img-fluid&quot; src=&quot;/CEEO_INNOVATION/assets/img/author1.jpg&quot;&gt;
                 &lt;/a&gt;
             &lt;/div&gt;
             &lt;div class=&quot;team-content&quot;&gt;
@@ -532,7 +532,7 @@
             &lt;div class=&quot;our-team&quot;&gt;
             &lt;div class=&quot;picture&quot;&gt;	
                 &lt;a href=&quot;http://linkedin.com&quot;&gt;
-                    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/author1.jpg&quot;&gt;
+                    &lt;img class=&quot;img-fluid&quot; src=&quot;/CEEO_INNOVATION/assets/img/author1.jpg&quot;&gt;
                 &lt;/a&gt;
             &lt;/div&gt;
             &lt;div class=&quot;team-content&quot;&gt;
@@ -596,9 +596,9 @@
     &lt;div class=&quot;container&quot;&gt;
       &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;col-lg-4&quot; style=&quot;margin-right:15%&quot; &gt;
-            &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/logo_white.png&quot; alt=&quot;&quot;&gt;
+            &lt;img class=&quot;img-fluid&quot; src=&quot;/CEEO_INNOVATION/assets/img/logo_white.png&quot; alt=&quot;&quot;&gt;
             &lt;a href=&quot;https://ceeo.tufts.edu/&quot; target=&quot;_blank&quot;&gt;
-            &lt;img class=&quot;img-fluid&quot; style = &quot;margin-top: 1.5rem;margin-bottom:1rem&quot; src=&quot;/assets/img/CEEO_Logo_Black Background.png&quot; alt=&quot;&quot;&gt;
+            &lt;img class=&quot;img-fluid&quot; style = &quot;margin-top: 1.5rem;margin-bottom:1rem&quot; src=&quot;/CEEO_INNOVATION/assets/img/CEEO_Logo_Black Background.png&quot; alt=&quot;&quot;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-lg-6 ml-auto&quot; &gt;
