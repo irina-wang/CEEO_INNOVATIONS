@@ -1,0 +1,11 @@
+docs_list_title: Project List
+docs:
+
+- name: Project1
+  link: /
+- name: Project2
+  link: /about.html
+- name: Project3
+  link: /proj1.html
+
+  

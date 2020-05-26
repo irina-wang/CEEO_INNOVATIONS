@@ -1,0 +1,9 @@
+
+- name: author1
+  pic: assets/img/author1.jpg
+  url: http://linkedin.com
+  description: Graduate Student 
+- name: author2
+  pic: assets/img/author1.jpg
+  url: http://linkedin.com
+  description: Graduate Student

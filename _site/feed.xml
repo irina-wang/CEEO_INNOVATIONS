@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-25T21:22:53-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">My Project template 2</title><link href="http://localhost:4000/2020/05/20/template2.html" rel="alternate" type="text/html" title="My Project template 2" /><published>2020-05-20T00:00:00-04:00</published><updated>2020-05-20T00:00:00-04:00</updated><id>http://localhost:4000/2020/05/20/template2</id><content type="html" xml:base="http://localhost:4000/2020/05/20/template2.html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;!--------------------- EXTERNAL SOURCES -----------------------&gt;
+  &lt;!-- Bootstrap core CSS --&gt;
+  &lt;link href=&quot;/assets/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot;&gt;
+
+  &lt;!-- Custom fonts for this template --&gt;
+  &lt;link href=&quot;https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&quot; rel=&quot;stylesheet&quot;&gt;
+  &lt;link href=&quot;https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&quot; rel=&quot;stylesheet&quot;&gt;
+
+  &lt;!-- Custom styles for this template --&gt;
+  &lt;link href=&quot;/assets/css/business-casual.min.css&quot; rel=&quot;stylesheet&quot;&gt;
+  &lt;link href=&quot;/assets/css/business-frontpage.css&quot; rel=&quot;stylesheet&quot;&gt;
+	&lt;script src=&quot;/assets/js/jquery.slim.min.js&quot;&gt;&lt;/script&gt;
+	&lt;script src = &quot;/assets/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
+
+  &lt;!-- Custom styles for this template --&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style1.css&quot;&gt;
+
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style2.css&quot;&gt;
+
+   &lt;!-- Theme Style --&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style.css&quot;&gt; 
+
+  &lt;!-- Font Style --&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;//fonts.googleapis.com/css?family=Raleway&quot; /&gt;
+
+  &lt;link rel = &quot;stylesheet&quot; type = &quot;text/css&quot; href = &quot;/assets/css/author.css&quot; /&gt;
+
+&lt;style&gt;
+    .body{
+        font-family:Raleway;
+    }
+    .col-center-block {
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .col-md-700{-ms-flex:0 0 56.333333%;flex:0 0 56.333333%;max-width:56.333333%}
+    
+    header2{
+        display:block;
+        padding:.5rem 1.5rem;
+        margin-bottom:0;
+        font-size:.875rem;
+        color:#6c757d;
+        white-space:nowrap}
+    
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    
+&lt;/style&gt;
+
+&lt;!-- include CEEO header --&gt;
+
+    &lt;div id=&quot;PROJECT CEEO HEADER&quot;&gt;
+	&lt;header1 class=&quot;py-5 mb-4&quot; style=&quot;background-color:#00FF85;margin:0;border:0;padding:0&quot;&gt;
+	  &lt;div class=&quot;container&quot;&gt;
+		  &lt;div class=&quot;row&quot;&gt;
+			  &lt;div class=&quot;col-lg-12&quot;&gt;	
+	
+		  &lt;a href=&quot;index.html&quot; target=&quot;_blank&quot;&gt;
+			  &lt;img class=&quot;img-fluid&quot; style=&quot;width: 15%;max-width: 200px; margin-right: 70%&quot; src=&quot;/assets/img/Logo_Black.png&quot; alt=&quot;&quot;&gt;
+		  &lt;/a&gt;
+		  &lt;a href=&quot;https://ceeo.tufts.edu&quot; target=&quot;_blank&quot;&gt;
+				&lt;img class=&quot;img-fluid&quot; style=&quot;width: 13%;max-width: 200px &quot; src=&quot;/assets/img/Tufts_University.png&quot; alt=&quot;&quot;&gt;
+		  &lt;/a&gt;
+			&lt;/div&gt;
+		  &lt;/div&gt;
+	  &lt;/div&gt;
+	&lt;/header1&gt;
+	&lt;/div&gt;
+
+     
+
+&lt;head&gt;
+    &lt;title&gt; MY PROJECT NAME &lt;/title&gt;
+&lt;/head&gt;
+
+
+&lt;body style=&quot;background-color:rgba(246,245,245,1);padding-top: 0px&quot;&gt;	
+ &lt;!-- Project Title --&gt;
+ &lt;h1 style=&quot;text-align: center;font-weight: 800;margin-top:5rem;
+ margin-bottom:5rem; font-size: 4em;
+ text-transform:uppercase;
+   font-family:Raleway;
+ line-height:1;&quot;&gt;
+        &lt;span style=&quot;font-size:0.5em;color:#00FF85&quot;&gt;project&lt;br/&gt;&lt;/span&gt;
+        &lt;span style=&quot;line-height: 140%;&quot;&gt;Welcome to MY PROJECT NAME&lt;/span&gt;
+    &lt;/h1&gt;
+ 
+ &lt;!-- Intro --&gt;
+    &lt;div id=&quot;intro&quot;&gt;
+        &lt;div class=&quot;intro_img&quot; style=&quot;display:block; overflow:hidden; margin-left:5%; margin-right: 5%; margin-bottom: 4%; width:90%&quot; &gt;
+            &lt;img src=&quot;/assets/img/intro.jpg&quot;&gt;&lt;img&gt; 
+        &lt;/div&gt;
+       
+        &lt;h5 class=&quot;intro_text&quot; style=&quot;display: block; margin-left:7%; margin-right: 7%; text-align: center;font-weight:500;&quot;&gt;enter your project's introduction&lt;/h5&gt; 
+    &lt;/div&gt;
+ 
+
+&lt;!-- Project Gallery --&gt;
+&lt;div id = &quot;proj_gallery&quot;&gt;
+    &lt;div class=&quot;container&quot; style=&quot;margin-top:3rem; margin-bottom:3rem;&quot; &gt;	
+	    &lt;div class=&quot;mb-5&quot; style=&quot;border-style:none;&quot;&gt;
+            &lt;h2 style= &quot;text-align:center;font-family:Raleway; font-weight: 700; color:rgba(0,0,0,1.00)&quot;&gt; Project Gallery &lt;/h2&gt;&lt;hr/&gt;
+		&lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+    
+    &lt;div class=&quot;cols&quot; style=&quot;margin: 0;padding: 0;-webkit-box-sizing: border-box;box-sizing: border-box;&quot;&gt;
+                &lt;div class=&quot;col&quot; ontouchstart=&quot;this.classList.toggle('hover');&quot;&gt;
+                    &lt;div class=&quot;box&quot;&gt;
+                        &lt;div class=&quot;front&quot; style=&quot;background-color:rgba(0, 255, 170, 0.884);&quot;&gt;
+                            &lt;div class=&quot;inner&quot;&gt; 
+                                &lt;p&gt;#1 &lt;/p&gt;
+                                &lt;span&gt; proj1&lt;/span&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;back&quot;&gt;
+                            &lt;div class=&quot;inner&quot;&gt;
+                            &lt;p&gt;This is my first project.&lt;/p&gt;
+                            &lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot; style=&quot;color:white&quot;&gt;click here&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;cols&quot; style=&quot;margin: 0;padding: 0;-webkit-box-sizing: border-box;box-sizing: border-box;&quot;&gt;
+                &lt;div class=&quot;col&quot; ontouchstart=&quot;this.classList.toggle('hover');&quot;&gt;
+                    &lt;div class=&quot;box&quot;&gt;
+                        &lt;div class=&quot;front&quot; style=&quot;background-color:rgba(0, 255, 170, 0.884);&quot;&gt;
+                            &lt;div class=&quot;inner&quot;&gt; 
+                                &lt;p&gt;#2 &lt;/p&gt;
+                                &lt;span&gt; proj2&lt;/span&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;back&quot;&gt;
+                            &lt;div class=&quot;inner&quot;&gt;
+                            &lt;p&gt;This is my second project.&lt;/p&gt;
+                            &lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot; style=&quot;color:white&quot;&gt;click here&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;cols&quot; style=&quot;margin: 0;padding: 0;-webkit-box-sizing: border-box;box-sizing: border-box;&quot;&gt;
+                &lt;div class=&quot;col&quot; ontouchstart=&quot;this.classList.toggle('hover');&quot;&gt;
+                    &lt;div class=&quot;box&quot;&gt;
+                        &lt;div class=&quot;front&quot; style=&quot;background-color:rgba(0, 255, 170, 0.884);&quot;&gt;
+                            &lt;div class=&quot;inner&quot;&gt; 
+                                &lt;p&gt;#3 &lt;/p&gt;
+                                &lt;span&gt; proj3&lt;/span&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;back&quot;&gt;
+                            &lt;div class=&quot;inner&quot;&gt;
+                            &lt;p&gt;This is my third project.&lt;/p&gt;
+                            &lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot; style=&quot;color:white&quot;&gt;click here&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;/div&gt;        
+
+
+
+&lt;!-- About the author --&gt;
+&lt;div id=&quot;author&quot;&gt;
+        &lt;div class=&quot;container&quot; style=&quot;margin-top:3rem; margin-bottom:3rem;&quot; &gt;	
+            &lt;div class=&quot;row&quot; style=&quot;display: flex;align-items: center;justify-content: center;&quot;&gt;
+                &lt;div class=&quot;mb-5&quot; style=&quot;border-style:none;&quot;&gt;
+        &lt;h2 style= &quot;text-align:center;font-family:Raleway; font-weight: 700; color:rgba(0,0,0,1.00)&quot;&gt; About the Authors(In data folder)&lt;/h2&gt;&lt;hr/&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot; style=&quot;display: flex;align-items: center;justify-content: center;&quot;&gt;
+    
+        &lt;div class=&quot;col-12 col-sm-6 col-md-4 col-lg-3&quot;&gt;
+            &lt;div class=&quot;our-team&quot;&gt;
+            &lt;div class=&quot;picture&quot;&gt;	
+                &lt;a href=&quot;http://linkedin.com&quot;&gt;
+                    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/author1.jpg&quot;&gt;
+                &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;team-content&quot;&gt;
+                &lt;h3 class=&quot;name&quot;&gt;author1&lt;/h3&gt;
+                &lt;h4 class=&quot;title&quot;&gt;Graduate Student&lt;/h4&gt;
+        
+            &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+        &lt;div class=&quot;col-12 col-sm-6 col-md-4 col-lg-3&quot;&gt;
+            &lt;div class=&quot;our-team&quot;&gt;
+            &lt;div class=&quot;picture&quot;&gt;	
+                &lt;a href=&quot;http://linkedin.com&quot;&gt;
+                    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/author1.jpg&quot;&gt;
+                &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;team-content&quot;&gt;
+                &lt;h3 class=&quot;name&quot;&gt;author2&lt;/h3&gt;
+                &lt;h4 class=&quot;title&quot;&gt;Graduate Student&lt;/h4&gt;
+        
+            &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/body&gt;
+
+&lt;!-- include CEEO disclaimer --&gt;
+&lt;div id=&quot;PROJECT DISCLAIMER&quot;&gt;
+    &lt;footer class=&quot;footer text-faded text-center py-5&quot; &gt;
+      &lt;div class=&quot;container&quot; style=&quot;border-top-style:solid;border-top-color: rgba(0,0,0,0.3)&quot;&gt;
+          &lt;div class=&quot;row&quot; style=&quot;margin-top:5rem; padding:15px; text-align: justify&quot;&gt;
+              &lt;p style=&quot;text-align:left;line-height: 200%; color:rgba(0,0,0,1.00)&quot;&gt;
+                  &lt;!-- \\\ YOUR PROJECT DISCLIAMER HERE /// --&gt;
+                  You are visiting an open development section where you will get
+                   access to so-called “developer software”, which offers 
+                   documentation on different ways to operate the LEGO® Education
+                    SPIKE™ Prime Hub and technology. Whatever use you make of 
+                    the developer software, bear in mind that the results are 
+                    not experiences that the LEGO Group endorses, is with or 
+                    will be liable for. No rights in or to trademarks of the 
+                    LEGO Group are implied or given, and you may not apply to or 
+                    register any protection anywhere in the world for intellectual
+                     property or industrial rights or similar in respect of 
+                     any developer software, derivative or other result achieved 
+                     through its use. The developer software is made available 
+                     “as is” and, to the extent possible, no warranties or 
+                     representations are implied or given in relation to it by 
+                     the LEGO Group. It’s your responsibility to ensure all uses 
+                     that you make and enable others to make comply with all 
+                     applicable laws and best practices. By accessing the 
+                     developer software, you acknowledge that the terms and 
+                     conditions set out above and in LEGO Education’s 
+              &lt;!-- \\\ YOUR TERM AND CONDITION LINK HERE /// --&gt;
+                  &lt;a href=&quot;termandcondition.html&quot; style=&quot;color:#00FF85&quot;&gt;
+              &lt;!-- \\\ YOUR PROMPT TO TERM AND CONDITION LINK HERE /// --&gt;
+                      terms of use for SPIKE Prime
+                  &lt;/a&gt; apply
+              &lt;/p&gt;
+              
+          &lt;/div&gt;
+        &lt;p style=&quot;color:black; text-align: center; margin-top:3rem;text-indent: 1px&quot;&gt;Copyright &amp;copy; Tufts University Center for Engineering Education and Outreach 2020&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/footer&gt;
+  &lt;/div&gt; 
+
+
+&lt;!-- include CEEO footer --&gt;
+
+&lt;!-- 还没改呢 --&gt;
+&lt;footer class=&quot;site-footer&quot;&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-lg-4&quot; style=&quot;margin-right:15%&quot; &gt;
+            &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/logo_white.png&quot; alt=&quot;&quot;&gt;
+            &lt;a href=&quot;https://ceeo.tufts.edu/&quot; target=&quot;_blank&quot;&gt;
+            &lt;img class=&quot;img-fluid&quot; style = &quot;margin-top: 1.5rem;margin-bottom:1rem&quot; src=&quot;/assets/img/CEEO_Logo_Black Background.png&quot; alt=&quot;&quot;&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-lg-6 ml-auto&quot; &gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-lg-5&quot; style=&quot;margin-right: 25%&quot;&gt;
+              &lt;h2 class=&quot;footer-heading mb-4&quot; style=&quot;color:#00FF85;font-weight:bold;font-size: 25px&quot;&gt;Innovators&lt;/h2&gt;
+               &lt;p class=&quot;mb-5&quot; style=&quot;font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Helvetica, “Apple Color Emoji”, Arial, sans-serif, “Segoe UI Emoji”, “Segoe UI Symbol”; color:rgba(255,255,255,1.00)&quot;&gt;We are from the Tufts Center for the Engineering and Education and Outreach &lt;/p&gt;
+
+            &lt;/div&gt;
+            &lt;div class=&quot;col-lg-4&quot;&gt;
+              &lt;h2 class=&quot;footer-heading mb-4&quot; style=&quot;color:#00FF85;font-weight:bold;font-size: 25px&quot;&gt;Follow us&lt;/h2&gt;
+              &lt;ul class=&quot;list-unstyled bs&quot; &gt;
+                &lt;li&gt;&lt;a href=&quot;https://www.instructables.com/member/CEEOInnovations/&quot; target=&quot;_blank&quot;&gt;Instructables&lt;/a&gt;&lt;/li&gt;
+               
+                &lt;li&gt;&lt;a href=&quot;https://github.com/ceeoinnovations&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+              
+            &lt;/div&gt;  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+        &lt;!--
+        &lt;div class=&quot;row&quot; style=&quot;margin-top: 4rem&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;
+          &lt;p style=&quot;text-align: center&quot;&gt;Copyright© Tufts Center for Engineering Education and Outreach(CEEO)&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      --&gt;
+  
+    &lt;/div&gt;
+  &lt;/footer&gt; 
+
+
+
+&lt;/html&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">My Project template 3</title><link href="http://localhost:4000/2020/05/20/template3.html" rel="alternate" type="text/html" title="My Project template 3" /><published>2020-05-20T00:00:00-04:00</published><updated>2020-05-20T00:00:00-04:00</updated><id>http://localhost:4000/2020/05/20/template3</id><content type="html" xml:base="http://localhost:4000/2020/05/20/template3.html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;link href=&quot;/assets/css/template.css&quot; rel=&quot;stylesheet&quot;&gt;
+
+
+&lt;body&gt;
+    &lt;div id=&quot;author_name&quot;&gt;
+    author1
+&lt;/body&gt;
+
+
+
+
+
+&lt;/html&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">My Project template</title><link href="http://localhost:4000/2020/05/19/template.html" rel="alternate" type="text/html" title="My Project template" /><published>2020-05-19T00:00:00-04:00</published><updated>2020-05-19T00:00:00-04:00</updated><id>http://localhost:4000/2020/05/19/template</id><content type="html" xml:base="http://localhost:4000/2020/05/19/template.html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;!--------------------- EXTERNAL SOURCES -----------------------&gt;
+  &lt;!-- Bootstrap core CSS --&gt;
+  &lt;link href=&quot;/assets/css/bootstrap.min.css&quot; rel=&quot;stylesheet&quot;&gt;
+
+  &lt;!-- Custom fonts for this template --&gt;
+  &lt;link href=&quot;https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&quot; rel=&quot;stylesheet&quot;&gt;
+  &lt;link href=&quot;https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&quot; rel=&quot;stylesheet&quot;&gt;
+
+  &lt;!-- Custom styles for this template --&gt;
+  &lt;link href=&quot;/assets/css/business-casual.min.css&quot; rel=&quot;stylesheet&quot;&gt;
+  &lt;link href=&quot;/assets/css/business-frontpage.css&quot; rel=&quot;stylesheet&quot;&gt;
+	&lt;script src=&quot;/assets/js/jquery.slim.min.js&quot;&gt;&lt;/script&gt;
+	&lt;script src = &quot;/assets/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
+
+  &lt;!-- Custom styles for this template --&gt;
+	&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style1.css&quot;&gt;
+
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style2.css&quot;&gt;
+
+   &lt;!-- Theme Style --&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style.css&quot;&gt; 
+
+  &lt;!-- Font Style --&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;//fonts.googleapis.com/css?family=Raleway&quot; /&gt;
+
+  &lt;link rel = &quot;stylesheet&quot; type = &quot;text/css&quot; href = &quot;/assets/css/author.css&quot; /&gt;
+
+&lt;style&gt;
+    .body{
+        font-family:Raleway;
+    }
+    .col-center-block {
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .col-md-700{-ms-flex:0 0 56.333333%;flex:0 0 56.333333%;max-width:56.333333%}
+    
+    header2{
+        display:block;
+        padding:.5rem 1.5rem;
+        margin-bottom:0;
+        font-size:.875rem;
+        color:#6c757d;
+        white-space:nowrap}
+    
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    
+&lt;/style&gt;
+
+&lt;!-- include CEEO header --&gt;
+
+    &lt;div id=&quot;PROJECT CEEO HEADER&quot;&gt;
+	&lt;header1 class=&quot;py-5 mb-4&quot; style=&quot;background-color:#00FF85;margin:0;border:0;padding:0&quot;&gt;
+	  &lt;div class=&quot;container&quot;&gt;
+		  &lt;div class=&quot;row&quot;&gt;
+			  &lt;div class=&quot;col-lg-12&quot;&gt;	
+	
+		  &lt;a href=&quot;index.html&quot; target=&quot;_blank&quot;&gt;
+			  &lt;img class=&quot;img-fluid&quot; style=&quot;width: 15%;max-width: 200px; margin-right: 70%&quot; src=&quot;/assets/img/Logo_Black.png&quot; alt=&quot;&quot;&gt;
+		  &lt;/a&gt;
+		  &lt;a href=&quot;https://ceeo.tufts.edu&quot; target=&quot;_blank&quot;&gt;
+				&lt;img class=&quot;img-fluid&quot; style=&quot;width: 13%;max-width: 200px &quot; src=&quot;/assets/img/Tufts_University.png&quot; alt=&quot;&quot;&gt;
+		  &lt;/a&gt;
+			&lt;/div&gt;
+		  &lt;/div&gt;
+	  &lt;/div&gt;
+	&lt;/header1&gt;
+	&lt;/div&gt;
+
+     
+
+&lt;head&gt;
+    &lt;title&gt; MY PROJECT NAME &lt;/title&gt;
+&lt;/head&gt;
+
+
+&lt;body style=&quot;background-color:rgba(246,245,245,1);padding-top: 0px&quot;&gt;	
+ &lt;!-- Project Title --&gt;
+ &lt;h1 style=&quot;text-align: center;font-weight: 800;margin-top:5rem;
+ margin-bottom:5rem; font-size: 4em;
+ text-transform:uppercase;
+   font-family:Raleway;
+ line-height:1;&quot;&gt;
+        &lt;span style=&quot;font-size:0.5em;color:#00FF85&quot;&gt;project&lt;br/&gt;&lt;/span&gt;
+        &lt;span style=&quot;line-height: 140%;&quot;&gt;Welcome to MY PROJECT NAME&lt;/span&gt;
+    &lt;/h1&gt;
+ 
+ &lt;!-- Intro --&gt;
+    &lt;div id=&quot;intro&quot;&gt;
+        &lt;div class=&quot;intro_img&quot; style=&quot;display:block; overflow:hidden; margin-left:5%; margin-right: 5%; margin-bottom: 4%; width:90%&quot; &gt;
+            &lt;img src=&quot;/assets/img/intro.jpg&quot;&gt;&lt;img&gt; 
+        &lt;/div&gt;
+       
+        &lt;h5 class=&quot;intro_text&quot; style=&quot;display: block; margin-left:7%; margin-right: 7%; text-align: center;font-weight:500;&quot;&gt;enter your project's introduction&lt;/h5&gt; 
+    &lt;/div&gt;
+ 
+
+&lt;!-- Project Gallery --&gt;
+&lt;div id = &quot;proj_gallery&quot;&gt;
+    &lt;div class=&quot;container&quot; style=&quot;margin-top:3rem; margin-bottom:3rem;&quot; &gt;	
+	    &lt;div class=&quot;mb-5&quot; style=&quot;border-style:none;&quot;&gt;
+            &lt;h2 style= &quot;text-align:center;font-family:Raleway; font-weight: 700; color:rgba(0,0,0,1.00)&quot;&gt; Project Gallery &lt;/h2&gt;&lt;hr/&gt;
+		&lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+    
+    &lt;div class=&quot;cols&quot; style=&quot;margin: 0;padding: 0;-webkit-box-sizing: border-box;box-sizing: border-box;&quot;&gt;
+                &lt;div class=&quot;col&quot; ontouchstart=&quot;this.classList.toggle('hover');&quot;&gt;
+                    &lt;div class=&quot;box&quot;&gt;
+                        &lt;div class=&quot;front&quot; style=&quot;background-color:rgba(0, 255, 170, 0.884);&quot;&gt;
+                            &lt;div class=&quot;inner&quot;&gt; 
+                                &lt;p&gt;#1 &lt;/p&gt;
+                                &lt;span&gt; proj1&lt;/span&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;back&quot;&gt;
+                            &lt;div class=&quot;inner&quot;&gt;
+                            &lt;p&gt;This is my first project.&lt;/p&gt;
+                            &lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot; style=&quot;color:white&quot;&gt;click here&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;cols&quot; style=&quot;margin: 0;padding: 0;-webkit-box-sizing: border-box;box-sizing: border-box;&quot;&gt;
+                &lt;div class=&quot;col&quot; ontouchstart=&quot;this.classList.toggle('hover');&quot;&gt;
+                    &lt;div class=&quot;box&quot;&gt;
+                        &lt;div class=&quot;front&quot; style=&quot;background-color:rgba(0, 255, 170, 0.884);&quot;&gt;
+                            &lt;div class=&quot;inner&quot;&gt; 
+                                &lt;p&gt;#2 &lt;/p&gt;
+                                &lt;span&gt; proj2&lt;/span&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;back&quot;&gt;
+                            &lt;div class=&quot;inner&quot;&gt;
+                            &lt;p&gt;This is my second project.&lt;/p&gt;
+                            &lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot; style=&quot;color:white&quot;&gt;click here&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;cols&quot; style=&quot;margin: 0;padding: 0;-webkit-box-sizing: border-box;box-sizing: border-box;&quot;&gt;
+                &lt;div class=&quot;col&quot; ontouchstart=&quot;this.classList.toggle('hover');&quot;&gt;
+                    &lt;div class=&quot;box&quot;&gt;
+                        &lt;div class=&quot;front&quot; style=&quot;background-color:rgba(0, 255, 170, 0.884);&quot;&gt;
+                            &lt;div class=&quot;inner&quot;&gt; 
+                                &lt;p&gt;#3 &lt;/p&gt;
+                                &lt;span&gt; proj3&lt;/span&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;back&quot;&gt;
+                            &lt;div class=&quot;inner&quot;&gt;
+                            &lt;p&gt;This is my third project.&lt;/p&gt;
+                            &lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot; style=&quot;color:white&quot;&gt;click here&lt;/a&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;/div&gt;        
+
+
+
+&lt;!-- About the author --&gt;
+&lt;div id=&quot;author&quot;&gt;
+        &lt;div class=&quot;container&quot; style=&quot;margin-top:3rem; margin-bottom:3rem;&quot; &gt;	
+            &lt;div class=&quot;row&quot; style=&quot;display: flex;align-items: center;justify-content: center;&quot;&gt;
+                &lt;div class=&quot;mb-5&quot; style=&quot;border-style:none;&quot;&gt;
+        &lt;h2 style= &quot;text-align:center;font-family:Raleway; font-weight: 700; color:rgba(0,0,0,1.00)&quot;&gt; About the Authors(In data folder)&lt;/h2&gt;&lt;hr/&gt;
+            &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    
+    &lt;div class=&quot;row&quot; style=&quot;display: flex;align-items: center;justify-content: center;&quot;&gt;
+    
+        &lt;div class=&quot;col-12 col-sm-6 col-md-4 col-lg-3&quot;&gt;
+            &lt;div class=&quot;our-team&quot;&gt;
+            &lt;div class=&quot;picture&quot;&gt;	
+                &lt;a href=&quot;http://linkedin.com&quot;&gt;
+                    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/author1.jpg&quot;&gt;
+                &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;team-content&quot;&gt;
+                &lt;h3 class=&quot;name&quot;&gt;author1&lt;/h3&gt;
+                &lt;h4 class=&quot;title&quot;&gt;Graduate Student&lt;/h4&gt;
+        
+            &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+        &lt;div class=&quot;col-12 col-sm-6 col-md-4 col-lg-3&quot;&gt;
+            &lt;div class=&quot;our-team&quot;&gt;
+            &lt;div class=&quot;picture&quot;&gt;	
+                &lt;a href=&quot;http://linkedin.com&quot;&gt;
+                    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/author1.jpg&quot;&gt;
+                &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;team-content&quot;&gt;
+                &lt;h3 class=&quot;name&quot;&gt;author2&lt;/h3&gt;
+                &lt;h4 class=&quot;title&quot;&gt;Graduate Student&lt;/h4&gt;
+        
+            &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/body&gt;
+
+&lt;!-- include CEEO disclaimer --&gt;
+&lt;div id=&quot;PROJECT DISCLAIMER&quot;&gt;
+    &lt;footer class=&quot;footer text-faded text-center py-5&quot; &gt;
+      &lt;div class=&quot;container&quot; style=&quot;border-top-style:solid;border-top-color: rgba(0,0,0,0.3)&quot;&gt;
+          &lt;div class=&quot;row&quot; style=&quot;margin-top:5rem; padding:15px; text-align: justify&quot;&gt;
+              &lt;p style=&quot;text-align:left;line-height: 200%; color:rgba(0,0,0,1.00)&quot;&gt;
+                  &lt;!-- \\\ YOUR PROJECT DISCLIAMER HERE /// --&gt;
+                  You are visiting an open development section where you will get
+                   access to so-called “developer software”, which offers 
+                   documentation on different ways to operate the LEGO® Education
+                    SPIKE™ Prime Hub and technology. Whatever use you make of 
+                    the developer software, bear in mind that the results are 
+                    not experiences that the LEGO Group endorses, is with or 
+                    will be liable for. No rights in or to trademarks of the 
+                    LEGO Group are implied or given, and you may not apply to or 
+                    register any protection anywhere in the world for intellectual
+                     property or industrial rights or similar in respect of 
+                     any developer software, derivative or other result achieved 
+                     through its use. The developer software is made available 
+                     “as is” and, to the extent possible, no warranties or 
+                     representations are implied or given in relation to it by 
+                     the LEGO Group. It’s your responsibility to ensure all uses 
+                     that you make and enable others to make comply with all 
+                     applicable laws and best practices. By accessing the 
+                     developer software, you acknowledge that the terms and 
+                     conditions set out above and in LEGO Education’s 
+              &lt;!-- \\\ YOUR TERM AND CONDITION LINK HERE /// --&gt;
+                  &lt;a href=&quot;termandcondition.html&quot; style=&quot;color:#00FF85&quot;&gt;
+              &lt;!-- \\\ YOUR PROMPT TO TERM AND CONDITION LINK HERE /// --&gt;
+                      terms of use for SPIKE Prime
+                  &lt;/a&gt; apply
+              &lt;/p&gt;
+              
+          &lt;/div&gt;
+        &lt;p style=&quot;color:black; text-align: center; margin-top:3rem;text-indent: 1px&quot;&gt;Copyright &amp;copy; Tufts University Center for Engineering Education and Outreach 2020&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/footer&gt;
+  &lt;/div&gt; 
+
+
+&lt;!-- include CEEO footer --&gt;
+
+&lt;!-- 还没改呢 --&gt;
+&lt;footer class=&quot;site-footer&quot;&gt;
+    &lt;div class=&quot;container&quot;&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-lg-4&quot; style=&quot;margin-right:15%&quot; &gt;
+            &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/logo_white.png&quot; alt=&quot;&quot;&gt;
+            &lt;a href=&quot;https://ceeo.tufts.edu/&quot; target=&quot;_blank&quot;&gt;
+            &lt;img class=&quot;img-fluid&quot; style = &quot;margin-top: 1.5rem;margin-bottom:1rem&quot; src=&quot;/assets/img/CEEO_Logo_Black Background.png&quot; alt=&quot;&quot;&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-lg-6 ml-auto&quot; &gt;
+          &lt;div class=&quot;row&quot;&gt;
+            &lt;div class=&quot;col-lg-5&quot; style=&quot;margin-right: 25%&quot;&gt;
+              &lt;h2 class=&quot;footer-heading mb-4&quot; style=&quot;color:#00FF85;font-weight:bold;font-size: 25px&quot;&gt;Innovators&lt;/h2&gt;
+               &lt;p class=&quot;mb-5&quot; style=&quot;font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Helvetica, “Apple Color Emoji”, Arial, sans-serif, “Segoe UI Emoji”, “Segoe UI Symbol”; color:rgba(255,255,255,1.00)&quot;&gt;We are from the Tufts Center for the Engineering and Education and Outreach &lt;/p&gt;
+
+            &lt;/div&gt;
+            &lt;div class=&quot;col-lg-4&quot;&gt;
+              &lt;h2 class=&quot;footer-heading mb-4&quot; style=&quot;color:#00FF85;font-weight:bold;font-size: 25px&quot;&gt;Follow us&lt;/h2&gt;
+              &lt;ul class=&quot;list-unstyled bs&quot; &gt;
+                &lt;li&gt;&lt;a href=&quot;https://www.instructables.com/member/CEEOInnovations/&quot; target=&quot;_blank&quot;&gt;Instructables&lt;/a&gt;&lt;/li&gt;
+               
+                &lt;li&gt;&lt;a href=&quot;https://github.com/ceeoinnovations&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+              
+            &lt;/div&gt;  
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+        &lt;!--
+        &lt;div class=&quot;row&quot; style=&quot;margin-top: 4rem&quot;&gt;
+            &lt;div class=&quot;col-12&quot;&gt;
+          &lt;p style=&quot;text-align: center&quot;&gt;Copyright© Tufts Center for Engineering Education and Outreach(CEEO)&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      --&gt;
+  
+    &lt;/div&gt;
+  &lt;/footer&gt; 
+
+
+
+&lt;/html&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
