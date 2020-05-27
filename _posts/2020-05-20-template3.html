@@ -2,6 +2,10 @@
 title: My Project template 3
 intro: This is my project template 3
 layout: post
+categories: test
+tags: [python, EV3, lego]
+author: Alice
+permalink: /:categories/:title
 ---
 
 <!DOCTYPE html>
@@ -12,7 +16,35 @@ layout: post
 
 <body>
     <div id="author_name">
+        <h1>{{page.title}}</h1>
+
+    <!-- include tags -->
+    <div id="tags">
+        Tags:
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="{{site.baseurl}}/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+    {% endfor %}
+    </div>
+            <!-- <h2>Tags: {{ page.tags | capitalize | join: ', ' }}</h2> -->
+
+    <!-- include categories -->
+    <div id="cats">
+        Categories:
+        {% for category in page.categories %}
+          {% capture cat_name %}{{ category }}{% endcapture %}
+          <a href="{{site.baseurl}}/categories/{{ cat_name }}"><code class="highligher-rouge"><nobr>{{ cat_name }}</nobr></code>&nbsp;</a>
+        {% endfor %}
+    </div>
+    <!-- <h2>Categories: {{ page.categories }}</h2> -->
+
+    {{ page.author}}
     {{site.data.proj1.authors[0].name}}
+    </div>
+
+    
+    <div id="pdf"><a href="{{ site.baseurl }}/assets/pdf/EV3-Projectile-Launcher-Data-Sheet1.pdf">Click here</a></div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6EVs0BrG57I" frameborder="0" allowfullscreen></iframe>
 </body>
 
 

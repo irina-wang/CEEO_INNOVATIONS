@@ -1,0 +1,12 @@
+<!-- <h2>Search By Categories</h2> -->
+{% capture tempcats %}
+  {% for category in site.categories %}
+    {{ category[1].size | plus: 1000 }}#{{ category[0] }}#{{ category[1].size }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedtempcats = tempcats | split:' ' | sort | reverse %}
+{% for tempcats in sortedtempcats %}
+  {% assign catsitems = tempcats | split: '#' %}
+  {% capture catsname %}{{ catsitems[1] }}{% endcapture %}
+  <a href="{{site.baseurl}}/categories/{{ catsname }}"><code class="highligher-rouge"><nobr>{{ catsname }}</nobr></code></a>
+{% endfor %}
