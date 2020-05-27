@@ -1,0 +1,66 @@
+# choose "finished" or "working"
+status: finished
+
+# if you choose "working", complete this section 
+update:
+  - date:
+
+project_name: <b>project template</b>
+
+# intro
+Section1: Introduction
+intro:
+  # enter your intro picture's source
+  photo: assets/img/intro.jpg
+  text: enter your project's introduction 
+
+# section 2
+Section2: Project Gallery 
+proj_gallery:
+  - name: proj1
+    pic: assets/img/1.jpg
+    url: http://google.com
+    description: This is my first project. 
+  - name: proj2
+    pic: assets/img/2.jpg
+    url: http://google.com
+    description:  <div id="pdf"><a href="/CEEO_INNOVATION/assets/pdf/EV3-Projectile-Launcher-Data-Sheet1.pdf">Click here</a></div>
+  - name:  <iframe width="560" height="315" src="https://www.youtube.com/embed/6EVs0BrG57I" frameborder="0" allowfullscreen></iframe>
+    pic: assets/img/3.jpg
+    url: http://google.com
+    description: This is my third project.
+  # add more if needed
+  
+  
+Section3: About the Authors
+authors: 
+  - name: author1
+    pic: assets/img/author1.jpg
+    url: http://linkedin.com
+    description: Graduate Student 
+  - name: author2
+    pic: assets/img/author1.jpg
+    url: http://linkedin.com
+    description: Graduate Student
+
+
+Section4: Watch Youtube Videos
+# NOTE: video format should follow https://www.youtube.com/embed/video_id
+#       here's the link of how to find video_id: https://www.youtube.com/watch?v=liJVSwOiiwg
+videos: 
+  - https://www.youtube.com/embed/4risclUjeXg
+  - https://www.youtube.com/embed/4risclUjeXg
+
+
+
+Section5: Download files
+# NOTE: remember to upload files in assets folder
+files: 
+  - name: EV3 Projectile Launcher Data Sheet1
+    src: /assets/pdf/EV3-Projectile-Launcher-Data-Sheet1.pdf
+  - name: EV3 Projectile Launcher Data Sheet1
+    src: /assets/pdf/EV3-Projectile-Launcher-Data-Sheet1.pdf
+
+ 
+
+
