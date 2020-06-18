@@ -138,7 +138,7 @@
         <ul>
           
             <li>
-              <a href="/CEEO_INNOVATION/template/template_post">/CEEO_INNOVATION/template/template_post My Project template 2</a>
+              <a href="/CEEO_INNOVATION/template/test/template_post">/CEEO_INNOVATION/template/test/template_post My Project template 2</a>
             </li>
           
             <li>
@@ -219,7 +219,23 @@
      
      
 
-     
+      <!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="/path/to/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
+</script>
 
 
       

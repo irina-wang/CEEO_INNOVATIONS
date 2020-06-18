@@ -68,7 +68,7 @@ update:
 project_name: MY PROJECT NAME
 
 # intro
-Section1: Introduction
+Section1: Induction 
 intro:
   # enter your intro picture's source
   photo: assets/img/intro.jpg

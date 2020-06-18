@@ -1,0 +1,58 @@
+[
+  
+    {
+
+      "title"    : "My Project template 2",
+      "url"      : "/CEEO_INNOVATION/template/test/template_post",
+      "category" : "template, test",
+      "tags"     : "",
+      "date"     : "2020-05-27 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "[MODIFY] Random EV3 Testing",
+      "url"      : "/CEEO_INNOVATION/creative-design/Milan's_EV3_test",
+      "category" : "creative-design",
+      "tags"     : "python, EV3",
+      "date"     : "2020-05-27 00:00:00 -0400",
+      "discription" : "[MODIFY] These are some random EV3 testings"
+
+    } ,
+  
+    {
+
+      "title"    : "My Project template 3",
+      "url"      : "/CEEO_INNOVATION/test/template3",
+      "category" : "test",
+      "tags"     : "python, EV3, lego",
+      "date"     : "2020-05-20 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "My Project template 2",
+      "url"      : "/CEEO_INNOVATION/template/template2",
+      "category" : "template",
+      "tags"     : "",
+      "date"     : "2020-05-20 00:00:00 -0400",
+      "discription" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "My Project template 1",
+      "url"      : "/CEEO_INNOVATION/template/template",
+      "category" : "template",
+      "tags"     : "",
+      "date"     : "2020-05-19 00:00:00 -0400",
+      "discription" : ""
+
+    } 
+  
+]
